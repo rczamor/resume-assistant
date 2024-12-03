@@ -1,0 +1,16 @@
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+getting-started/*
+.idea
+.vscode
+docker-compose.override.yml
+*.code-workspace
+.DS_Store
+.coverage
+.venv/
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir

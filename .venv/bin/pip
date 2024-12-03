@@ -1,4 +1,4 @@
-#!/Applications/python/richezamor/resume-assistant/resume-assistant/.venv/bin/python3
+#!/Applications/python/richezamor/resume-assistant/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
